@@ -7,4 +7,4 @@ Fun Fact: I love Studio Ghibli films and I also got viral for being me!
 
 NASA Blog Post: https://blogs.nasa.gov/interns/2021/03/07/roy-sisters-intern-at-nasa-while-pursuing-their-engineering-degrees/
 
-![Spirited Away](https://pa1.narvii.com/7128/0f28c0a3766dba78881eee2d26c8103b52dea43ar1-540-296_hq.gif)
+![Spirited Away](https://pa1.narvii.com/7128/0f28c0a3766dba78881eee2d26c8103b52dea43ar1-540-296_hq.gif)![Spirited Away](https://i.pinimg.com/originals/a6/84/6f/a6846f0a8d4ea0fb4cbf0e50ab46592e.gif)
