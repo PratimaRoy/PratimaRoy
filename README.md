@@ -1,5 +1,5 @@
 ### :hibiscus: Hi there :hibiscus:
-![God is everything](![image](https://user-images.githubusercontent.com/44096343/172513819-b663d419-1ece-4a50-984a-3355e80e46b1.png))
+![God is everything](https://user-images.githubusercontent.com/44096343/172513819-b663d419-1ece-4a50-984a-3355e80e46b1.png)
 
 God above all! I am a first-generation college graduate. I am a Software Engineer with a background in Computer Engineering Technology from The New York City College of Technology. I have interned at NASA 2 times. In my second internship, I assisted in analyzing the data for Hall thrusters in the Electrical Propulsion Laboratory. This will contribute to the Advanced Electric Propulsion System on the Power and Propulsion Element (PPE) for NASA’s Gateway. I developed a weather application and here is my awesome work, this is the link https://pratimaroyweatherapp.netlify.app/.
 
