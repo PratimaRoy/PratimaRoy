@@ -9,5 +9,5 @@ God above all! I am a first-generation college graduate. I am a Software Enginee
 
 ![Spirited Away](https://pa1.narvii.com/7128/0f28c0a3766dba78881eee2d26c8103b52dea43ar1-540-296_hq.gif) 
 ### Languages & Tools: 
-[JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)!
-[Pratima Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratimaRoy&show_icons=true&theme=dracula)
+![JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![Pratima Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratimaRoy&show_icons=true&theme=dracula)
