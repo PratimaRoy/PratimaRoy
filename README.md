@@ -1,5 +1,8 @@
 ### :hibiscus: Hi there :hibiscus:
 ![God is everything](https://user-images.githubusercontent.com/44096343/172513819-b663d419-1ece-4a50-984a-3355e80e46b1.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratimaroy&label=Profile%20views&color=0e75b6&style=flat" alt="pratimaroy" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratimaroy" alt="pratimaroy" /></a> </p>
 
 God above all! I am a first-generation college graduate. I am a Software Engineer with a background in Computer Engineering Technology from The New York City College of Technology. I have interned at NASA 2 times. In my second internship, I assisted in analyzing the data for Hall thrusters in the Electrical Propulsion Laboratory. This will contribute to the Advanced Electric Propulsion System on the Power and Propulsion Element (PPE) for NASA’s Gateway. I developed a weather application and here is my awesome work, this is the link https://pratimaroyweatherapp.netlify.app/.
 
@@ -9,9 +12,6 @@ God above all! I am a first-generation college graduate. I am a Software Enginee
 
 ![Spirited Away](https://pa1.narvii.com/7128/0f28c0a3766dba78881eee2d26c8103b52dea43ar1-540-296_hq.gif) 
 ### Languages & Tools: 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratimaroy&label=Profile%20views&color=0e75b6&style=flat" alt="pratimaroy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratimaroy" alt="pratimaroy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
