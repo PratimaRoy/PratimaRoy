@@ -29,3 +29,7 @@ God above all! I am a first-generation college graduate. I am a Software Enginee
 
 
 ![Pratima Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratimaRoy&show_icons=true&theme=dracula)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/ko-fi PratimaRoy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi PratimaRoy" /></a></p><br><br>
+
