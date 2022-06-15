@@ -11,11 +11,10 @@ God above all! I am a first-generation college graduate. I am a Software Enginee
 :hibiscus:NASA Blog Post: https://blogs.nasa.gov/interns/2021/03/07/roy-sisters-intern-at-nasa-while-pursuing-their-engineering-degrees/
 
 ![Spirited Away](https://pa1.narvii.com/7128/0f28c0a3766dba78881eee2d26c8103b52dea43ar1-540-296_hq.gif) 
-### Languages & Tools: 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pratimaroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratimaroy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pratimaroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratimaroy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
