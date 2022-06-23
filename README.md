@@ -6,13 +6,13 @@
 
 God above all! I am a first-generation college graduate. I am a Software Engineer with a background in Computer Engineering Technology from The New York City College of Technology. I have interned at NASA 2 times. In my second internship, I assisted in analyzing the data for Hall thrusters in the Electrical Propulsion Laboratory. This will contribute to the Advanced Electric Propulsion System on the Power and Propulsion Element (PPE) for NASA’s Gateway!
 
-<strong>Notable Projects:</strong>
+:bouquet:<strong>Notable Projects:</strong>:bouquet:
 
-:hibiscus: https://pratimaroyweatherapp.netlify.app/
+:cherry_blossom: https://pratimaroyweatherapp.netlify.app/
 
-:hibiscus: https://studentdash1.netlify.app/
+:cherry_blossom: https://studentdash1.netlify.app/
 
-:hibiscus: https://team-5-youtube-clone.netlify.app/
+:cherry_blossom: https://team-5-youtube-clone.netlify.app/
 
 
 
