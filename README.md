@@ -14,6 +14,8 @@ God above all! I am a first-generation college graduate. I am a Software Enginee
 
 :cherry_blossom: https://team-5-youtube-clone.netlify.app/
 
+:cherry_blossom: https://pratimastudioghibliappreview.netlify.app/
+
 
 
 
