@@ -18,6 +18,8 @@ God above all! I am a first-generation college graduate. I am a Software Enginee
 
 :cherry_blossom: https://vishnupriyabudgetapp.netlify.app/
 
+:cherry_blossom: https://pratima-jewelers.netlify.app/
+
 
 
 
