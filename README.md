@@ -1,11 +1,7 @@
 ### :hibiscus: Hi there :hibiscus:
 ![God is everything](https://user-images.githubusercontent.com/44096343/172513819-b663d419-1ece-4a50-984a-3355e80e46b1.png)
 
-<video src="[https://www.canva.com/design/DAFVIOKlnPQ/watch](https://www.canva.com/design/DAFVIOKlnPQ/M-jAOCvW7YvhgGkxfadxZg/watch?utm_content=DAFVIOKlnPQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" controls="controls" style="max-width: 730px;">
-</video>
-
-
-
+https://user-images.githubusercontent.com/44096343/208312289-e846a3dd-d9de-4f3c-8cb7-57306742d846.mp4
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratimaroy&label=Profile%20views&color=0e75b6&style=flat" alt="pratimaroy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratimaroy" alt="pratimaroy" /></a> </p>
