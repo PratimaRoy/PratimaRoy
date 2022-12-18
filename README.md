@@ -35,7 +35,7 @@ God above all! I am a first-generation college graduate. I am a Software Enginee
 
 :hibiscus:NASA Blog Post: https://blogs.nasa.gov/interns/2021/03/07/roy-sisters-intern-at-nasa-while-pursuing-their-engineering-degrees/
 
-![Spirited Away](https://pa1.narvii.com/7128/0f28c0a3766dba78881eee2d26c8103b52dea43ar1-540-296_hq.gif) 
+<img src="https://pa1.narvii.com/7128/0f28c0a3766dba78881eee2d26c8103b52dea43ar1-540-296_hq.gif" width=100% height=100%>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
