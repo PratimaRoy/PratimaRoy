@@ -1,7 +1,7 @@
 ### :hibiscus: Hi there :hibiscus:
 ![God is everything](https://user-images.githubusercontent.com/44096343/172513819-b663d419-1ece-4a50-984a-3355e80e46b1.png)
 
-<img src= "https://www.canva.com/design/DAFVIOKlnPQ/PDZxK3SyzUzl2jWkSeTgaw/edit?utm_content=DAFVIOKlnPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="max-width: 100%; display: inline-block;">
+<img src= "https://www.canva.com/design/DAFVIOKlnPQ/PDZxK3SyzUzl2jWkSeTgaw/edit?utm_content=DAFVIOKlnPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="max-width: 100%; display: inline-block; data-target="animated-image.originalImage">
 
 
 
