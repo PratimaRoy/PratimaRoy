@@ -6,7 +6,7 @@
 
 <video src="([https://www.canva.com/design/DAFVIOKlnPQ/watch](https://www.canva.com/design/DAFVIQwOOvA/KiKphl4Yt1OIdHa6Gu28ag/watch?utm_content=DAFVIQwOOvA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))" controls="controls" style="max-width: 730px;">
 </video>
-<img src="(https://www.canva.com/design/DAFVIOKlnPQ/watch)" style="max-width: 100%; display: inline-block;">
+<img src="[(https://www.canva.com/design/DAFVIOKlnPQ/watch)](https://www.canva.com/design/DAFVIOKlnPQ/PDZxK3SyzUzl2jWkSeTgaw/watch?utm_content=DAFVIOKlnPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" style="max-width: 100%; display: inline-block;">
 <img src="[Pink Violet White Anime Music Twitch Screen.mp4](https://www.canva.com/design/DAFVIOKlnPQ/M-jAOCvW7YvhgGkxfadxZg/watch?utm_content=DAFVIOKlnPQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)">
 
 
