@@ -1,13 +1,9 @@
 ### :hibiscus: Hi there :hibiscus:
 ![God is everything](https://user-images.githubusercontent.com/44096343/172513819-b663d419-1ece-4a50-984a-3355e80e46b1.png)
 
-<img src= "[https://www.canva.com/design/DAFVIOKlnPQ/PDZxK3SyzUzl2jWkSeTgaw/edit?utm_content=DAFVIOKlnPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFVIOKlnPQ/watch)">
-
-
-<video src="([https://www.canva.com/design/DAFVIOKlnPQ/watch](https://www.canva.com/design/DAFVIQwOOvA/KiKphl4Yt1OIdHa6Gu28ag/watch?utm_content=DAFVIQwOOvA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))" controls="controls" style="max-width: 730px;">
+<video src="[https://www.canva.com/design/DAFVIOKlnPQ/watch](https://www.canva.com/design/DAFVIOKlnPQ/M-jAOCvW7YvhgGkxfadxZg/watch?utm_content=DAFVIOKlnPQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" controls="controls" style="max-width: 730px;">
 </video>
-<img src="[(https://www.canva.com/design/DAFVIOKlnPQ/watch)](https://www.canva.com/design/DAFVIOKlnPQ/PDZxK3SyzUzl2jWkSeTgaw/watch?utm_content=DAFVIOKlnPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" style="max-width: 100%; display: inline-block;">
-<img src="[Pink Violet White Anime Music Twitch Screen.mp4](https://www.canva.com/design/DAFVIOKlnPQ/M-jAOCvW7YvhgGkxfadxZg/watch?utm_content=DAFVIOKlnPQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratimaroy&label=Profile%20views&color=0e75b6&style=flat" alt="pratimaroy" /> </p>
