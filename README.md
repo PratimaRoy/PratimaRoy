@@ -1,5 +1,9 @@
-### :hibiscus: Hi there :hibiscus:
-![God is everything](https://user-images.githubusercontent.com/44096343/172513819-b663d419-1ece-4a50-984a-3355e80e46b1.png)
+### :hibiscus: :aquarius: Hi, I am Pratima Roy. :om: I love all my Hindu deities and my family:hindu_temple:! :hibiscus:
+
+
+
+<img src="https://user-images.githubusercontent.com/44096343/172513819-b663d419-1ece-4a50-984a-3355e80e46b1.png" width=100% height=100%>
+
 
 https://user-images.githubusercontent.com/44096343/208312505-359335ea-590f-41c7-b52e-11bc2f4156c1.mp4
 
