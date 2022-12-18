@@ -6,7 +6,7 @@
 
 <video src="[https://www.canva.com/design/DAFVIOKlnPQ/PDZxK3SyzUzl2jWkSeTgaw/edit?utm_content=DAFVIOKlnPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFVIOKlnPQ/watch)" controls="controls" style="max-width: 730px;">
 </video>
-<img src="[https://user-images.githubusercontent.com/96319104/206968525-1909582a-889f-4e08-8132-bf1aa9a482ca.gif](https://www.canva.com/design/DAFVIOKlnPQ/watch)" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="[https://user-images.githubusercontent.com/96319104/206968525-1909582a-889f-4e08-8132-bf1aa9a482ca.gif](https://www.canva.com/design/DAFVIOKlnPQ/watch)" style="max-width: 100%; display: inline-block;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratimaroy&label=Profile%20views&color=0e75b6&style=flat" alt="pratimaroy" /> </p>
