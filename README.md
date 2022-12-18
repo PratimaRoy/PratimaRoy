@@ -7,6 +7,7 @@
 <video src="(https://www.canva.com/design/DAFVIOKlnPQ/watch)" controls="controls" style="max-width: 730px;">
 </video>
 <img src="(https://www.canva.com/design/DAFVIOKlnPQ/watch)" style="max-width: 100%; display: inline-block;">
+<img src="https://www.canva.com/design/DAFVIOKlnPQ/watch" alt="banner that says Pratima Roy-Software Engineer">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratimaroy&label=Profile%20views&color=0e75b6&style=flat" alt="pratimaroy" /> </p>
